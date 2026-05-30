@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendncrypt",
+        "uuid": 14006784,
+        "checksum": "mnv2y9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
